@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Shukanth Jojodae
 
 # 💫 About Me:
-📖 I’m currently studying Computer Science and Engineering at The Ohio State University<br>💻  I'm passionate about Artificial Intelligence, especially in the areas of natural language processing and ethical, accessible technology—using tools like TensorFlow, LangChain, and i18next to bring ideas to life<br>🌍 I care deeply about building inclusive technology I enjoy working on projects that intersect with education, healthcare, and community impact<br>🌱 I’m currently learning advanced NLP techniques, experimenting with transformers and large language models, and exploring AI’s role in creating inclusive technologies<br>🕺 A Fun fact about me is that I'm a dancer on OSU Origins, a Bollywood Fusion Dance team
+📖 I’m currently studying Computer Science and Engineering at The Ohio State University<br>💻  I'm passionate about Artificial Intelligence, especially in the areas of natural language processing and ethical, accessible technology—using tools like TensorFlow, LangChain, and i18next to bring ideas to life<br>🌍 I care deeply about building inclusive technology I enjoy working on projects that provide a positive community impact<br>🌱 I’m currently learning advanced NLP techniques, experimenting with transformers and large language models, and exploring AI’s role in creating inclusive technologies<br>🕺 A Fun fact about me is that I'm a dancer on OSU Origins, a Bollywood Fusion Dance team
 
 
 ## 🌐 Socials:
